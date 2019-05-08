@@ -31,3 +31,4 @@ import:
 - package: github.com/fatih/color
   version: v1.6.0
 - package: golang.org/x/oauth2
+- package: gopkg.in/AlecAivazis/survey.v1

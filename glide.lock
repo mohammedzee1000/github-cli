@@ -1,5 +1,5 @@
-hash: 23dad760b751852ca08fa8e69cece3113cdfd0273d0cfc6c6bc34dc8c26eb367
-updated: 2019-05-08T14:05:17.227646723+05:30
+hash: 2e0e1d959c665e3cbc650dbd32bc73b15ee1a7948611d5552304d5bc106167ae
+updated: 2019-05-08T14:24:35.499361265+05:30
 imports:
 - name: github.com/fatih/color
   version: 507f6050b8568533fb3f5504de8e5205fa62a114
@@ -31,4 +31,6 @@ imports:
   version: ffdc059bfe9ce6a4e144ba849dbedead332c6053
 - name: golang.org/x/oauth2
   version: 9f3314589c9a9136388751d9adae6b0ed400978a
+- name: gopkg.in/AlecAivazis/survey.v1
+  version: 7cbcdead7f38aefeda49da82a8ec69910154b154
 testImports: []

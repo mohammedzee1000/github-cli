@@ -1,0 +1,34 @@
+hash: 23dad760b751852ca08fa8e69cece3113cdfd0273d0cfc6c6bc34dc8c26eb367
+updated: 2019-05-08T14:05:17.227646723+05:30
+imports:
+- name: github.com/fatih/color
+  version: 507f6050b8568533fb3f5504de8e5205fa62a114
+- name: github.com/ghodss/yaml
+  version: 0ca9ea5df5451ffdf184b4428c902747c2c11cd7
+- name: github.com/golang/glog
+  version: 23def4e6c14b4da8ac2ed8007337bc5eb5007998
+- name: github.com/google/go-github
+  version: 1fef44b9b427e6c43f92b2f20918e496c275393f
+- name: github.com/hinshun/vt10x
+  version: d55458df857cfff952e4bf72ce1b567c5a4e141c
+- name: github.com/Netflix/go-expect
+  version: 9d1f4485533ba0665fa4ca2ef6f1210198f7eaae
+- name: github.com/olekukonko/tablewriter
+  version: d4647c9c7a84d847478d890b816b7d8b62b0b279
+- name: github.com/onsi/ginkgo
+  version: eea6ad008b96acdaa524f5b409513bf062b500ad
+- name: github.com/onsi/gomega
+  version: 90e289841c1ed79b7a598a7cd9959750cb5e89e2
+- name: github.com/pkg/errors
+  version: 645ef00459ed84a119197bfb8d8205042c6df63d
+- name: github.com/posener/complete
+  version: dcda3199365ca2a5f24aea4c42aa56f6a197d117
+- name: github.com/spf13/cobra
+  version: 7b2c5ac9fc04fc5efafb60700713d4fa609b777b
+- name: github.com/spf13/pflag
+  version: e57e3eeb33f795204c1ca35f56c44f83227c6e66
+- name: github.com/stretchr/testify
+  version: ffdc059bfe9ce6a4e144ba849dbedead332c6053
+- name: golang.org/x/oauth2
+  version: 9f3314589c9a9136388751d9adae6b0ed400978a
+testImports: []
